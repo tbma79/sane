@@ -21,6 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
+  - name: School of Computing
+    url: https://www.comp.nus.edu.sg
   - name: National University of Singapore
     url: https://www.nus.edu.sg
 education:
