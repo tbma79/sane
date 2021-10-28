@@ -27,15 +27,18 @@ organizations:
     url: https://www.nus.edu.sg
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Electrical Engineering
+      institution: Columbia University
+      year: 2010
+    - course: MPhil in Electrical Engineering
+      institution: Columbia University
       year: 2008
+    - course: MPhil in Computer Science and Engineering
+      institution: Chinese University of Hong Kong
+      year: 2004
+    - institution: Chinese University of Hong Kong
+      year: 2002
+      course: BSc. in Computer Science (1st Honors)
 superuser: true
 highlight_name: true
 title: Richard T. B. Ma
