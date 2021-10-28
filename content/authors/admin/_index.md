@@ -30,10 +30,7 @@ education:
     - course: PhD in Electrical Engineering
       institution: Columbia University
       year: 2010
-    - course: MPhil in Electrical Engineering
-      institution: Columbia University
-      year: 2008
-    - course: MPhil in Computer Science and Engineering
+    - course: MPhil in Computer Science
       institution: Chinese University of Hong Kong
       year: 2004
     - institution: Chinese University of Hong Kong
