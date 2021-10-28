@@ -35,7 +35,7 @@ education:
     - institution: Chinese University of Hong Kong
       year: 2002
       course: BSc. in Computer Science
-superuser: true
+superuser: false
 highlight_name: true
 title: Richard T. B. Ma
 email: ""
