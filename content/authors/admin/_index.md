@@ -1,6 +1,6 @@
 ---
 role: Associate Professor
-avatar_filename: me.jpg
+avatar_filename: avatar.png
 bio: My research interests include cloud computing and big data systems.
 interests:
   - Cloud
