@@ -34,7 +34,7 @@ education:
       year: 2004
     - institution: Chinese University of Hong Kong
       year: 2002
-      course: BSc. in Computer Science (1st Class Honors)
+      course: BSc. in Computer Science
 superuser: true
 highlight_name: true
 title: Richard T. B. Ma
