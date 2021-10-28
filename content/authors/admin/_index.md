@@ -3,7 +3,9 @@ role: Associate Professor
 avatar_filename: avatar.png
 bio: My research interests include cloud computing and big data systems.
 interests:
-  - Cloud
+  - Cloud Computing
+  - Distributed Systems
+  - Internet Economics
 social:
   - icon: envelope
     icon_pack: fas
