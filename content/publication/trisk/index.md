@@ -10,7 +10,7 @@ authors:
   - Xin Wang
   - admin
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
