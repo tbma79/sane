@@ -40,9 +40,9 @@ highlight_name: true
 title: Richard T. B. Ma
 email: ""
 ---
-Richard T. B. Ma is an associate professor at the Department of Computer Science, School of Computing, National University of Singapore. His research interests include cloud computing, distributed big data systems, and Internet economics and evolution. He leads the Systems, Analytics, Networks, Economics (SANE) group, which develops cloud-based data systems and performance models and analyses for cloud and network systems.
+Richard T. B. Ma is an associate professor at the Department of Computer Science, School of Computing, National University of Singapore. His research interests include cloud computing, distributed big data systems, and Internet economics and evolution. 
 
-
+He leads the Systems, Analytics, Networks, Economics (SANE) group, which develops cloud-based data systems and performance models and analyses for cloud and network systems.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
