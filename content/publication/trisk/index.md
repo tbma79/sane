@@ -1,6 +1,6 @@
 ---
-title: Trisk
-subtitle: Task-Centric Data Stream Reconfiguration
+title: "Trisk: Task-Centric Data Stream Reconfiguration"
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -9,6 +9,9 @@ authors:
   - Runxin Tian
   - Xin Wang
   - admin
+publication: Proceedings of the ACM Symposium on Cloud Computing, Seattle, WA,
+  USA, Novermber 1st-4th, 2021.
+publication_short: SoCC
 draft: false
 featured: true
 image:
