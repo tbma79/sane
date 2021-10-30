@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: tbma@comp.nus.edu.sg
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=gdyYJz4AAAAJ
@@ -38,7 +38,7 @@ education:
 superuser: true
 highlight_name: true
 title: Richard T. B. Ma
-email: "tbma@comp.nus.edu.sg"
+email: tbma@comp.nus.edu.sg
 ---
 Richard T. B. Ma is an associate professor with the Department of Computer Science, School of Computing, National University of Singapore. His research interests include cloud computing, distributed data and AI systems, and Internet economics and evolution. He leads the Systems, Analytics, Networks, Economics (SANE) group, which develops cloud-based data systems and performance models/analyses of network systems. 
 
