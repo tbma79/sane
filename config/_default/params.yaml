@@ -24,8 +24,8 @@ email: tbma at comp.nus.edu.sg
 phone: +65 6516-4244
 address:
   street: 15 Computing Drive, COM2 #04-27,         
-  city: Singapore
-  region: Singapore
+#  city: Singapore
+#  region: Singapore
   postcode: '117418'
   country: Singapore
   country_code: SG
