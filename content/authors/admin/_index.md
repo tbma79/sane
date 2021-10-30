@@ -30,9 +30,9 @@ education:
       institution: Columbia University
       year: 2010
     - course: MPhil in Computer Science
-      institution: Chinese University of Hong Kong
+      institution: The Chinese University of Hong Kong
       year: 2004
-    - institution: Chinese University of Hong Kong
+    - institution: The Chinese University of Hong Kong
       year: 2002
       course: BSc. in Computer Science
 superuser: true
