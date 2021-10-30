@@ -29,6 +29,8 @@ abstract: Due to the long-run and unpredictable nature of stream processing, any
   state-of-the-art fluid mechanism for state management.
 draft: false
 featured: true
+tags:
+  - Cloud Computing
 image:
   filename: featured
   focal_point: Smart
