@@ -9,7 +9,7 @@ authors:
   - Runxin Tian
   - Xin Wang
   - admin
-publication: In *The ACM Symposium on Cloud Computing, Seattle, WA, USA,
+publication: In *the ACM Symposium on Cloud Computing, Seattle, WA, USA,
   Novermber 1st-4th, 2021*
 publication_short: In *ACM SoCC*
 draft: false
