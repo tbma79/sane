@@ -13,12 +13,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=gdyYJz4AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
 organizations:
   - name: School of Computing
     url: https://www.comp.nus.edu.sg
