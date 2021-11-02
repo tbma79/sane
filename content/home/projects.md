@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Cloud Computing
-    tag: Cloud Computing
-  - name: Internet Economics
-    tag: Internet Economics
+  - name: Cloud Systems
+    tag: Cloud Systems
+  - name: Network Economics
+    tag: Network Economics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
