@@ -35,7 +35,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   alt_text: ""
 summary: Based on a novel task-centric abstraction, Trisk supports versatile
   runtime reconfigurations while keeping high efficiency with easy-to-use
