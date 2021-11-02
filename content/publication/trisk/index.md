@@ -32,7 +32,7 @@ featured: true
 tags:
   - Cloud Systems
 image:
-  filename: featured
+  filename: trisk.png
   focal_point: Smart
   preview_only: false
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
