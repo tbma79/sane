@@ -32,7 +32,7 @@ featured: true
 tags:
   - Cloud Systems
 projects:
-  - Trisk
+  - trisk
 image:
   filename: featured.png
   focal_point: Smart
