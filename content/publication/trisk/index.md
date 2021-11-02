@@ -37,11 +37,8 @@ image:
   preview_only: false
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   alt_text: ""
-summary: "In this paper, we present Trisk, a control plane that support
-  versatile reconfigurations while keeping high efficiency with easy-to-use
-  programming APIs. Trisk enables versatile reconfigurations with usability
-  based on a task-centric abstraction, and encapsulates primitive operations
-  such that reconfigurations can be described by compositing the primitive
-  operations on the abstraction. "
+summary: Based on a novel task-centric abstraction, Trisk supports versatile
+  reconfigurations while keeping high efficiency with easy-to-use programming
+  APIs.
 date: 2021-10-30T13:03:02.093Z
 ---
