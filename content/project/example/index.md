@@ -1,11 +1,11 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 summary: An example of using the in-built project page.
 url_video: ""
 tags:
-  - Internet Economics
+  - Cloud Systems
 external_link: ""
 url_slides: ""
 title: Example Project
