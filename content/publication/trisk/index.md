@@ -31,6 +31,8 @@ draft: false
 featured: true
 tags:
   - Cloud Systems
+projects:
+  - Trisk
 image:
   filename: featured.png
   focal_point: Smart
