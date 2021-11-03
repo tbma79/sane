@@ -4,8 +4,8 @@ publication_types:
   - "2"
 authors:
   - admin
-publication: IEEE/ACM Transactions on Networking
-publication_short: IEEE/ACM TON
+publication: IEEE/ACM Transactions on Networking, to appear.
+publication_short: IEEE/ACM Transactions on Networking
 draft: false
 featured: false
 image:
