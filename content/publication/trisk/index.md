@@ -33,7 +33,7 @@ tags:
   - Cloud Systems
 projects:
   - trisk
-url_code = "https://github.com/sane-lab/Trisk"
+url_code: https://github.com/sane-lab/Trisk
 image:
   filename: featured.png
   focal_point: Smart
