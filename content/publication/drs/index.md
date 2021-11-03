@@ -42,5 +42,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: Based on the Jackson queueing network, DRS is able to dynamically
+  determine the optimal resource allocation solution for stream jobs in the
+  runtime.
 date: 2021-11-03T15:30:21.668Z
 ---
