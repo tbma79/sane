@@ -11,7 +11,7 @@ authors:
   - admin
 publication: In *the ACM Symposium on Cloud Computing, Seattle, WA, USA,
   Novermber 1st-4th, 2021*
-publication_short: In *ACM SoCC*
+publication_short: In *ACM Symposium on Cloud Computing (SoCC)*
 abstract: Due to the long-run and unpredictable nature of stream processing, any
   statically configuredexecution of stream jobs fails to process data in a
   timely and efficient manner. To achieve performance requirements, stream jobs
