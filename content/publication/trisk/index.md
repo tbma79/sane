@@ -43,5 +43,5 @@ image:
 summary: Based on a novel task-centric abstraction, Trisk supports versatile
   runtime reconfigurations while keeping high efficiency with easy-to-use
   programming APIs.
-date: 2021-11-30T13:03:02.093Z
+date: 2021-11-01T13:03:02.093Z
 ---
