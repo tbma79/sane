@@ -1,6 +1,6 @@
 ---
-title: Elasticutor
-subtitle: "Rapid Elasticity for Realtime Stateful Stream Processing. "
+title: "Elasticutor: Rapid Elasticity for Realtime Stateful Stream Processing"
+subtitle: ""
 publication_types:
   - "1"
 authors:
