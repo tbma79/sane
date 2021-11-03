@@ -1,6 +1,6 @@
 ---
-title: DRS
-subtitle: "DRS: Auto-Scaling for Real-Time Stream Analytics. "
+title: "DRS: Auto-Scaling for Real-Time Stream Analytics. "
+subtitle: ""
 publication_types:
   - "2"
 authors:
