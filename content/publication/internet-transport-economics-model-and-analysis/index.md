@@ -8,6 +8,8 @@ publication: IEEE/ACM Transactions on Networking, to appear.
 publication_short: IEEE/ACM Transactions on Networking
 draft: false
 featured: true
+tags:
+  - Network Economics
 image:
   filename: featured
   focal_point: Smart
