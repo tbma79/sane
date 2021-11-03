@@ -7,7 +7,7 @@ authors:
 publication: IEEE/ACM Transactions on Networking, to appear.
 publication_short: IEEE/ACM Transactions on Networking
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
