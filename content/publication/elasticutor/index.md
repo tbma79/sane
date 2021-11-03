@@ -6,10 +6,15 @@ publication_types:
 authors:
   - Li Wang
   - Tom Z. J. Fu
-  - Richard T. B. Ma
-  - Marianne Winslett and Zhenjie Zhang.
+  - admin
+  - Marianne Winslett
+  - Zhenjie Zhang.
+publication: In *ACM SIGMOD Conference*
+publication_short: In *ACM SIGMOD Conference*
 draft: false
 featured: false
+tags:
+  - Cloud Systems
 image:
   filename: featured
   focal_point: Smart
