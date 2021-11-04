@@ -11,8 +11,7 @@ publication: "Mobihoc '20: Proceedings of the Twenty-First International
 publication_short: ACM Mobihoc '20
 draft: false
 featured: true
-tags:
-  - Network Economics
+tags: []
 projects:
   - internet-transport
 image:
