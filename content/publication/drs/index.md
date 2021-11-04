@@ -10,6 +10,7 @@ authors:
   - Marianne Winslett
   - Yin Yang
   - Zhenjie Zhang.
+doi: 10.1109/TNET.2017.2741969
 publication: IEEE/ACM Transactions on Networking, Volume 25, Issue 6, pp. 3338 -
   3352, December 2017.
 publication_short: IEEE/ACM Transactions on Networking
