@@ -1,5 +1,5 @@
 ---
-title: "DRS: Auto-Scaling for Real-Time Stream Analytics. "
+title: "DRS: Auto-Scaling for Real-Time Stream Analytics"
 subtitle: ""
 publication_types:
   - "2"
@@ -17,7 +17,7 @@ abstract: ""
 draft: false
 featured: false
 tags:
-  - Cloud Systems
+  - Apache Storm
 projects:
   - stream-systems
 image:
