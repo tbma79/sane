@@ -33,7 +33,6 @@ tags:
   - Cloud Systems
 projects:
   - trisk
-url_code: https://github.com/sane-lab/Trisk
 image:
   filename: featured.png
   focal_point: Smart
@@ -44,4 +43,6 @@ summary: Based on a novel task-centric abstraction, Trisk supports versatile
   runtime reconfigurations while keeping high efficiency with easy-to-use
   programming APIs.
 date: 2021-11-01T13:03:02.093Z
+url_code: https://github.com/sane-lab/Trisk
+doi: https://doi.org/10.1145/3472883.3487010
 ---
