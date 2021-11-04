@@ -5,10 +5,10 @@ publication_types:
 authors:
   - admin
 doi: https://doi.org/10.1145/3397166.3409137
-publication: "Mobihoc '20: Proceedings of the Twenty-First International
+publication: "In *Mobihoc '20: Proceedings of the Twenty-First International
   Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile
-  Networks and Mobile Computing"
-publication_short: ACM Mobihoc '20
+  Networks and Mobile Computing*"
+publication_short: In *ACM Mobihoc Conference*
 draft: false
 featured: true
 tags: []
