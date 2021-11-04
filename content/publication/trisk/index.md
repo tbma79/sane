@@ -32,7 +32,7 @@ featured: true
 tags:
   - Stream Systems
 projects:
-  - Stream Systems
+  - stream-systems
 image:
   filename: featured.png
   focal_point: Smart
