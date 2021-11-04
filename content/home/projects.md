@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Cloud Systems
-    tag: Cloud Systems
+  - name: Cloud Computing
+    tag: Cloud Computing
   - name: Network Economics
     tag: Network Economics
 
