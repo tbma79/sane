@@ -4,8 +4,8 @@ avatar_filename: avatar.png
 bio: My research interests include cloud computing and big data systems.
 interests:
   - Cloud Computing
-  - Distributed Systems
-  - Internet Economics
+  - Stream Systems
+  - Network Economics
 social:
   - icon: envelope
     icon_pack: fas
