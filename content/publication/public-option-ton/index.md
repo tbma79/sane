@@ -11,6 +11,8 @@ publication: IEEE/ACM Transactions on Networking, 21(6), pp. 1866 - 1879, Decemb
 publication_short: " IEEE/ACM Transactions on Networking"
 draft: false
 featured: true
+projects:
+  - network-neutrality
 image:
   filename: featured
   focal_point: Smart
