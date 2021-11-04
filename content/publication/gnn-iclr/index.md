@@ -1,7 +1,7 @@
 ---
-title: GNN ICLR
-subtitle: " Measuring and Improving the Use of Graph Information in Graph Neural
+title: " Measuring and Improving the Use of Graph Information in Graph Neural
   Networks"
+subtitle: ""
 publication_types:
   - "1"
 authors:
