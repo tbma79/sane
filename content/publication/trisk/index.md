@@ -30,7 +30,7 @@ abstract: Due to the long-run and unpredictable nature of stream processing, any
 draft: false
 featured: true
 tags:
-  - Cloud Systems
+  - Stream Systems
 projects:
   - trisk
 image:
