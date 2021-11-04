@@ -1,6 +1,6 @@
 ---
-title: Paid Peering TON
-subtitle: ", Settlement-Free Peering, or Both? "
+title: "Paid Peering, Settlement-Free Peering, or Both? "
+subtitle: ""
 publication_types:
   - "2"
 authors:
