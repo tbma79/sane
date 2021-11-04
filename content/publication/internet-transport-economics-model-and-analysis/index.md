@@ -13,6 +13,8 @@ draft: false
 featured: true
 tags:
   - Network Economics
+projects:
+  - internet-transport
 image:
   filename: featured
   focal_point: Smart
