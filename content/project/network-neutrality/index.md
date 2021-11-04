@@ -1,6 +1,6 @@
 ---
 title: Net Neutrality
-date: 2021-11-02T14:00:34.452Z
+date: 2020-01-01T07:25:00.000Z
 draft: false
 featured: false
 tags:
