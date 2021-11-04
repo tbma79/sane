@@ -12,6 +12,8 @@ publication: IEEE/ACM Transactions on Networking, Volume 29, Issue 2, pp. 585-59
 publication_short: IEEE/ACM Transactions on Networking
 draft: false
 featured: false
+projects:
+  - internet-peering
 image:
   filename: featured
   focal_point: Smart
