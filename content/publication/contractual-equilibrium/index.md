@@ -8,7 +8,7 @@ authors:
   - admin
 doi: https://doi.org/10.1145/3428326
 publication: In *ACM on Measurement and Analysis of Computing Systems (SIGMETRICS)*
-publication_short: In *ACM SIGMETRICS*
+publication_short: In *ACM SIGMETRICS Conference*
 abstract: Driven by the rapid growth of content traffic and the demand for
   service quality, Internet content providers (CPs) have started to bypass
   transit providers and connect with access providers directly via private
