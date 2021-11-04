@@ -14,7 +14,7 @@ publication_short: In *ACM SIGMOD Conference*
 draft: false
 featured: true
 tags:
-  - Cloud Systems
+  - Apache Storm
 projects:
   - stream-systems
 image:
