@@ -8,7 +8,7 @@ doi: 10.1109/TNET.2021.3103796
 publication: IEEE/ACM Transactions on Networking
 publication_short: IEEE/ACM Transactions on Networking
 draft: false
-featured: true
+featured: false
 tags: []
 projects:
   - internet-transport
