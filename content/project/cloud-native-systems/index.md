@@ -1,10 +1,7 @@
 ---
 title: Cloud-Native Systems
 date: 2021-11-04T09:08:51.608Z
-summary: |-
-  Cloud-native frameworks such as Kubernetes, Cloudevents and Prometheus.
-
-  .
+summary: Cloud-native frameworks such as Kubernetes, Cloudevents and Prometheus.
 draft: false
 featured: false
 tags:
