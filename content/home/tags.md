@@ -12,7 +12,7 @@ weight: 120
 title: Topics
 subtitle: ''
 
-active: true
+active: false
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
