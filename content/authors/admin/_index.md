@@ -14,6 +14,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=gdyYJz4AAAAJ
+  - display:
+      header: false
+    icon_pack: ai
+    icon: dblp
+    link: http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Ma:Richard_T=_B=.html
 organizations:
   - name: School of Computing
     url: https://www.comp.nus.edu.sg
