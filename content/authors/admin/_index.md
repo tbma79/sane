@@ -19,6 +19,11 @@ social:
     icon_pack: ai
     icon: dblp
     link: http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Ma:Richard_T=_B=.html
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-9883-5844
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: School of Computing
     url: https://www.comp.nus.edu.sg
