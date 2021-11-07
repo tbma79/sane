@@ -1,29 +1,36 @@
 ---
-title: "Pay or Perish: The Economics of Premium Peering"
-subtitle: ""
+title: Regulating Monopolistic
+subtitle: Regulating Monopolistic ISPs without Neutrality
 publication_types:
   - "2"
 authors:
+  - Jing Tang
   - admin
-doi: 10.1109/JSAC.2017.2659038
-publication: "In *IEEE Journal on Selected Areas in Communications, Volume 35,
-  Issue: 2, pp. 353 - 366, February 2017*"
+doi: 10.1109/JSAC.2019.2916492
+publication: "In *IEEE Journal on Selected Areas in Communications, Volume 37,
+  Issue: 7, pp. 1666 - 1680, July 2019.*"
 publication_short: In *IEEE Journal on Selected Areas in Communications (JSAC)*
-abstract: As the Internet continues to evolve, traditional peering agreements
-  cannot accommodate the changing market conditions. Premium peering has emerged
-  where access providers (APs) charge content providers (CPs) for premium
-  services beyond best-effort connectivity. Although prioritized peering raises
-  concerns about net neutrality, the U.S. FCC exempted peering agreements from
-  its recent ruling, as it falls short of background in the Internet peering
-  context. In this paper, we consider the premium peering options provided by
-  APs and study whether CPs will choose to peer. Based on a novel choice model
-  of complementary services, we characterize the market shares and utilities of
-  the providers under various peering decisions and identify the value of
-  premium peering for the CPs that fundamentally determine CPs' peering
-  decisions. We find that high-value CPs have peer pressure when low-value CPs
-  peer; however, low-value CPs behave oppositely. The peering decisions of the
-  high-value and low-value CPs are substantially influenced by their baseline
-  market shares and user stickiness, respectively, but not vice versa.
+abstract: Net neutrality has recently been heavily debated as a potential
+  regulation of the Internet. This debate is centered around the argument
+  whether the Internet Service Providers (ISPs) should be allowed to provide
+  differentiated services over the Internet. Advocates of net neutrality have
+  expressed concerns about the ISPs' pricing power, which might be used to
+  discriminate Content Providers (CPs), and consequently destroy innovations at
+  the edge of the Internet and hurt users' utilities. However, without service
+  differentiation, ISPs do not have incentives to expand infrastructure
+  capacities and provide quality of services, which will eventually impair the
+  development of the future Internet. Although market competition among the ISPs
+  would alleviate the problem and reduce the need for net neutrality
+  regulations, the problem is more severe in monopolistic markets, e.g., rural
+  access markets where natural monopolies exist due to high deployment costs and
+  appropriate regulations are most in need. We study the service differentiation
+  offered by a monopolistic ISP and find that the ISP's profit-optimal strategy
+  makes a free ordinary service damaged good, which hurts the welfare of CPs and
+  their users. Instead of imposing net neutrality regulations, we propose a more
+  flexible and lenient policy framework that generalizes net neutrality
+  regulations. We believe that by allowing ISPs to differentiate services under
+  a well-designed policy constraint, the utility of the entire Internet
+  ecosystem could be greatly improved.
 draft: false
 featured: false
 projects:
@@ -32,5 +39,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2017-02-01T15:19:00.000Z
+date: 2019-07-01T15:19:00.000Z
 ---
