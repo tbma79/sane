@@ -34,7 +34,7 @@ abstract: Net neutrality has recently been heavily debated as a potential
 draft: false
 featured: false
 projects:
-  - internet-peering
+  - network-neutrality
 image:
   filename: featured
   focal_point: Smart
