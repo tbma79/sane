@@ -9,7 +9,7 @@ authors:
   - admin
 doi: https://doi.org/10.1145/3409963.3410495
 publication: In *The 11th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys), 2020.*
-publication_short: In *ACM APSys Conference*
+publication_short: In *ACM SIGOP APSys*
 abstract: In cloud computing, resource allocation is the key building block.
   Existing resource allocation strategies are designed for multi-tenant cases
   and the majority of them target resource fairness and utilization. We consider
