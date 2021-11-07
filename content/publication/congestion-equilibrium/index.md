@@ -1,6 +1,6 @@
 ---
-title: Congestion Equilibrium
-subtitle: "Congestion and Its Role in Network Equilibrium. "
+title: Congestion and Its Role in Network Equilibrium
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -10,27 +10,16 @@ doi: 10.1109/JSAC.2012.121210
 publication: In *IEEE Journal on Selected Areas in Communications, 30(11), pp.
   2180 - 2189, December 2012.*
 publication_short: In *IEEE Journal on Selected Areas in Communications (JSAC)*
-abstract: Net neutrality has recently been heavily debated as a potential
-  regulation of the Internet. This debate is centered around the argument
-  whether the Internet Service Providers (ISPs) should be allowed to provide
-  differentiated services over the Internet. Advocates of net neutrality have
-  expressed concerns about the ISPs' pricing power, which might be used to
-  discriminate Content Providers (CPs), and consequently destroy innovations at
-  the edge of the Internet and hurt users' utilities. However, without service
-  differentiation, ISPs do not have incentives to expand infrastructure
-  capacities and provide quality of services, which will eventually impair the
-  development of the future Internet. Although market competition among the ISPs
-  would alleviate the problem and reduce the need for net neutrality
-  regulations, the problem is more severe in monopolistic markets, e.g., rural
-  access markets where natural monopolies exist due to high deployment costs and
-  appropriate regulations are most in need. We study the service differentiation
-  offered by a monopolistic ISP and find that the ISP's profit-optimal strategy
-  makes a free ordinary service damaged good, which hurts the welfare of CPs and
-  their users. Instead of imposing net neutrality regulations, we propose a more
-  flexible and lenient policy framework that generalizes net neutrality
-  regulations. We believe that by allowing ISPs to differentiate services under
-  a well-designed policy constraint, the utility of the entire Internet
-  ecosystem could be greatly improved.
+abstract: In this paper, we develop the notion of congestion equilibrium in
+  large scale networks, with the specific goal of understanding the modern
+  multiparty Internet ecosystem comprising of content providers, ISPs and users.
+  We show that the concept of "congestion-taking" is analogous to the concept of
+  "price-taking" in classical market economics. With a wide variety of
+  congestion metrics and under very mild assumptions on the congestion dynamics,
+  we characterize various properties of congestion equilibria and develop
+  algorithms to compute them for large scale networks. Our work provides a new
+  way to model and analyze modern large scale network-economic systems that have
+  a complex interaction of engineering and economics.
 draft: false
 featured: false
 projects:
