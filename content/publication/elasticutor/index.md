@@ -9,7 +9,7 @@ authors:
   - admin
   - Marianne Winslett
   - Zhenjie Zhang
-publication: In *ACM SIGMOD Conference*
+publication: In *ACM SIGMOD Conference, June 30 - July 5, Amsterdam, The Netherlands, 2019.*
 publication_short: In *ACM SIGMOD Conference*
 draft: false
 featured: true
