@@ -27,7 +27,7 @@ abstract: As the Internet continues to evolve, traditional peering agreements
 draft: false
 featured: false
 projects:
-  - network-neutrality
+  - internet-peering
 image:
   filename: featured
   focal_point: Smart
