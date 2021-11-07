@@ -7,7 +7,7 @@ authors:
   - admin
 doi: 10.1109/JSAC.2017.2659038
 publication: "In *IEEE Journal on Selected Areas in Communications, Volume 35,
-  Issue: 2, pp. 353 - 366*"
+  Issue: 2, pp. 353 - 366, February 2017*"
 publication_short: In *IEEE Journal on Selected Areas in Communications (JSAC)*
 abstract: As the Internet continues to evolve, traditional peering agreements
   cannot accommodate the changing market conditions. Premium peering has emerged
