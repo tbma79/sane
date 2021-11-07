@@ -1,7 +1,7 @@
 ---
-title: Cooperative Settlement
-subtitle: On Cooperative Settlement Between Content, Transit and Eyeball
-  Internet Service Providers
+title: On Cooperative Settlement Between Content, Transit and Eyeball Internet
+  Service Providers
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -13,25 +13,24 @@ authors:
 doi: 10.1109/TNET.2010.2089533
 publication: In *IEEE/ACM Transactions on Networking, 19(3), pp. 802 - 815, June 2011.*
 publication_short: In *IEEE/ACM Transactions on Networking*
-abstract: Over-the-top (OTT) services reach users via the open Internet without
-  dedicated infrastructures and have experienced enormous growth in recent
-  years. Netflix, an OTT streaming provider, now accounts for more than
-  one-third of peak U.S. downstream traffic and causes cord-cutting of
-  traditional cable pay-TV services from incumbent Internet service providers
-  (ISPs). However, the service quality of video streaming is still influenced by
-  the last-mile Internet access providers, who do not have incentives to deploy
-  enough capacity and want to charge OTT service providers (OSPs) for direct
-  connection. Although Netflix has reached deals with ISPs such as Comcast and
-  Verizon to improve service quality, their undisclosed agreements have raised
-  concerns about net neutrality. In this article, we study the economics of the
-  Netflix-Comcast type of deals and derive the conditions under which an OSP and
-  an ISP would reach such a deal. We analyze the impact of a deal transaction on
-  the revenue of providers, the utility of users and the social welfare. Based
-  on these results, we further classify different policy regimes and draw
-  regulatory implications that depend on the intensity of ex-post deal
-  competition and the cost of the deal. Our results can help understand how
-  existing deals were made, how future deals might emerge, and how regulators
-  should respond to various market conditions and scenarios.
+abstract: "Internet service providers (ISPs) depend on one another to provide
+  global network services. However, the profit-seeking nature of the ISPs leads
+  to selfish behaviors that result in inefficiencies and disputes in the
+  network. This concern is at the heart of the “network neutrality” debate,
+  which also asks for an appropriate compensation structure that satisfies all
+  types of ISPs. Our previous work showed in a general network model that the
+  Shapley value has several desirable properties, and that if applied as the
+  profit model, selfish ISPs would yield globally optimal routing and
+  interconnecting decisions. In this paper, we use a more detailed and realistic
+  network model with three classes of ISPs: content, transit, and eyeball. This
+  additional detail enables us to delve much deeper into the implications of a
+  Shapley settlement mechanism. We derive closed-form Shapley values for more
+  structured ISP topologies and develop a dynamic programming procedure to
+  compute the Shapley values under more diverse Internet topologies. We also
+  identify the implications on the bilateral compensation between ISPs and the
+  pricing structures for differentiated services. In practice, these results
+  provide guidelines for solving disputes between ISPs and for establishing
+  regulatory protocols for differentiated services and the industry."
 draft: false
 featured: false
 projects:
