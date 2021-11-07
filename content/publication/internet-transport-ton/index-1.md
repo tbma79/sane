@@ -5,8 +5,8 @@ publication_types:
 authors:
   - admin
 doi: 10.1109/TNET.2021.3103796
-publication: IEEE/ACM Transactions on Networking
-publication_short: IEEE/ACM Transactions on Networking
+publication: In *IEEE/ACM Transactions on Networking*
+publication_short: In *IEEE/ACM Transactions on Networking*
 draft: false
 featured: false
 tags: []
