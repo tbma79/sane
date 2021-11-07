@@ -1,6 +1,6 @@
 ---
-title: Subsidization Competition
-subtitle: "Subsidization Competition: Vitalizing the Neutral Internet"
+title: "Subsidization Competition: Vitalizing the Neutral Internet"
+subtitle: ""
 publication_types:
   - "2"
 authors:
