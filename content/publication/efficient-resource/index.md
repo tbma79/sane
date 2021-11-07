@@ -32,7 +32,7 @@ abstract: Through virtualization technologies, modern enterprises can build
 draft: false
 featured: false
 projects:
-  - Cloud-Native Systems
+  - cloud-native-systems
 image:
   filename: featured
   focal_point: Smart
