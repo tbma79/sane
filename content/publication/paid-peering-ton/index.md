@@ -9,7 +9,7 @@ authors:
   - admin
 doi: 10.1109/TNET.2020.3045220
 publication: In *IEEE/ACM Transactions on Networking, Volume 29, Issue 2, pp.
-  585-594, 2021.*
+  585-594, April 2021.*
 publication_short: In *IEEE/ACM Transactions on Networking*
 abstract: With the rapid growth of congestion-sensitive and data-intensive
   applications, traditional settlement-free peering agreements with best-effort
