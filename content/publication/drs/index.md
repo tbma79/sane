@@ -10,9 +10,9 @@ authors:
   - Marianne Winslett
   - Yin Yang
   - Zhenjie Zhang.
-publication: IEEE/ACM Transactions on Networking, Volume 25, Issue 6, pp. 3338 -
-  3352, December 2017.
-publication_short: IEEE/ACM Transactions on Networking
+publication: In *IEEE/ACM Transactions on Networking, Volume 25, Issue 6, pp.
+  3338 - 3352, December 2017.*
+publication_short: In *IEEE/ACM Transactions on Networking*
 abstract: ""
 draft: false
 featured: false
