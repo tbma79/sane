@@ -1,6 +1,6 @@
 ---
-title: ABACUS
-subtitle: "ABACUS: An Auction-Based Approach to Cloud Service Differentiation"
+title: "ABACUS: An Auction-Based Approach to Cloud Service Differentiation"
+subtitle: ""
 publication_types:
   - "1"
 authors:
