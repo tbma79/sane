@@ -1,6 +1,6 @@
 ---
-title: Window Join
-subtitle: "Parallelizing Intra-Window Join on Multicores: An Experimental Study"
+title: "Parallelizing Intra-Window Join on Multicores: An Experimental Study"
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -28,9 +28,8 @@ abstract: "The intra-window join (IaWJ), i.e., joining two input streams over a
   results, we propose a decision tree that can guide the selection of an
   appropriate algorithm."
 draft: false
-featured: true
-tags:
-  - Apache Storm
+featured: false
+tags: []
 projects:
   - stream-systems
 image:
