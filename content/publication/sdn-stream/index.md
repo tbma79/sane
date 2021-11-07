@@ -30,7 +30,7 @@ abstract: As the Internet continues to evolve, traditional peering agreements
 draft: false
 featured: false
 projects:
-  - internet-peering
+  - stream-systems
 image:
   filename: featured
   focal_point: Smart
