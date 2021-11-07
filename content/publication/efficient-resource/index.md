@@ -1,7 +1,7 @@
 ---
-title: Efficient Resource
-subtitle: "Efficient Resource Allocation and Consolidation with Selfish Agents:
-  An Adaptive Auction Approach"
+title: "Efficient Resource Allocation and Consolidation with Selfish Agents: An
+  Adaptive Auction Approach"
+subtitle: ""
 publication_types:
   - "1"
 authors:
