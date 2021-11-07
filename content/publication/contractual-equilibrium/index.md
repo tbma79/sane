@@ -7,7 +7,7 @@ authors:
   - Xin Wang
   - admin
 doi: https://doi.org/10.1145/3428326
-publication: In *ACM on Measurement and Analysis of Computing Systems (SIGMETRICS)*
+publication: In *ACM on Measurement and Analysis of Computing Systems (SIGMETRICS) 2021*
 publication_short: In *ACM SIGMETRICS Conference*
 abstract: Driven by the rapid growth of content traffic and the demand for
   service quality, Internet content providers (CPs) have started to bypass
