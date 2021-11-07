@@ -1,5 +1,5 @@
 ---
-title: On Optimal Service Differentiation in Congested Network Markets.
+title: On Optimal Service Differentiation in Congested Network Markets
 subtitle: ""
 publication_types:
   - "2"
