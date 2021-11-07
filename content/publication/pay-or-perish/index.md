@@ -1,6 +1,6 @@
 ---
-title: Regulating Monopolistic
-subtitle: Regulating Monopolistic ISPs without Neutrality
+title: Regulating Monopolistic ISPs without Neutrality
+subtitle: ""
 publication_types:
   - "2"
 authors:
