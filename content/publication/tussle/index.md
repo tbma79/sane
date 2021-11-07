@@ -8,8 +8,9 @@ authors:
   - Xin Wang
   - admin
 doi: 10.1109/TNET.2020.3024770
-publication: IEEE/ACM Transactions on Networking, Volume 28, Issue 6, pp. 2823 - 2835, 2020.
-publication_short: IEEE/ACM Transactions on Networking
+publication: In *IEEE/ACM Transactions on Networking, Volume 28, Issue 6, pp.
+  2823 - 2835, 2020.*
+publication_short: In *IEEE/ACM Transactions on Networking*
 abstract: Over-the-top (OTT) services reach users via the open Internet without
   dedicated infrastructures and have experienced enormous growth in recent
   years. Netflix, an OTT streaming provider, now accounts for more than
