@@ -29,7 +29,7 @@ abstract: As Internet applications have become more diverse in recent years,
   under which ISPs have strong incentives to implement service differentiation
   and whether regulators should encourage such practices.
 draft: false
-featured: true
+featured: false
 projects:
   - network-neutrality
 image:
