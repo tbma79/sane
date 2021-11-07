@@ -7,7 +7,7 @@ authors:
   - Xin Wang
   - admin
   - Yinlong Xu
-doi: 10.1109/TNET.2018.2874474
+doi: 10.1109/TNET.2017.2750173
 publication: In *  IEEE/ACM Transactions on Networking, Volume 25, Issue 6, pp.
   3602 - 3615, December 2017.*
 publication_short: In *IEEE/ACM Transactions on Networking*
