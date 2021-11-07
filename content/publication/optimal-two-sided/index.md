@@ -1,6 +1,6 @@
 ---
-title: Optimal Two-Sided
-subtitle: On Optimal Two-Sided Pricing of Congested Networks
+title: On Optimal Two-Sided Pricing of Congested Networks
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -10,26 +10,30 @@ authors:
 doi: https://doi.org/10.1145/3084444
 publication: In *ACM Sigmetrics Conference, Champaign-Urbana, USA, June 5-9, 2017.*
 publication_short: In *ACM SIGMETRICS Conference*
-abstract: Driven by the rapid growth of content traffic and the demand for
-  service quality, Internet content providers (CPs) have started to bypass
-  transit providers and connect with access providers directly via private
-  peering agreements. This peering relationship often raises disputes, e.g.,
-  Netflix vs. Comcast, and is not well understood. In this paper, we build a
-  peering contract model and propose the concept of contractual equilibrium,
-  based on which we study the formation and evolution of peering contracts. By
-  using market data, we emulate the strategic peering behavior of providers and
-  shed light on the understanding of private peering agreements. We reveal that
-  the superiority and market dominance of providers primarily determine their
-  peering strategies. We show that 1) superior providers tend to engage in
-  peering more aggressively, and 2) non-dominant CPs' optimal peering strategies
-  are negatively correlated due to market cannibalism, while the dominant CP
-  often behaves oppositely. Our findings help explain phenomena such as why
-  Netflix and Comcast signed the first peering contract, and reason whether
-  private peering contracts will strengthen in future.
+abstract: Traditionally, Internet Access Providers (APs) only charge end-users
+  for Internet access services; however, to recoup infrastructure costs and
+  increase revenues, some APs have recently adopted two-sided pricing schemes
+  under which both end-users and content providers are charged. Meanwhile, with
+  the rapid growth of traffic, network congestion could seriously degrade user
+  experiences and influence providers' utility. To optimize profit and social
+  welfare, APs and regulators need to design appropriate pricing strategies and
+  regulatory policies that take the effects of network congestion into
+  consideration. In this paper, we model two-sided networks under which users'
+  traffic demands are influenced by exogenous pricing and endogenous congestion
+  parameters and derive the system congestion under an equilibrium. We
+  characterize the structures and sensitivities of profit- and welfare-optimal
+  two-sided pricing schemes and reveal that 1) the elasticity of system
+  throughput plays a crucial role in determining the structures of optimal
+  pricing, 2) the changes of optimal pricing under varying AP's capacity and
+  users' congestion sensitivity are largely driven by the type of data traffic,
+  e.g., text or video, and 3) APs and regulators will be incentivized to shift
+  from one-sided to two-sided pricing when APs' capacities and user demand for
+  video traffic grow. Our results can help APs design optimal two-sided pricing
+  and guide regulators to legislate desirable policies.
 draft: false
 featured: false
 projects:
-  - internet-peering
+  - network-neutrality
 image:
   filename: featured
   focal_point: Smart
