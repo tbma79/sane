@@ -1,11 +1,11 @@
 ---
-title: sdn stream
-subtitle: On SDN-Enabled Online and Dynamic Bandwidth Allocation for Stream Analytics
+title: On SDN-Enabled Online and Dynamic Bandwidth Allocation for Stream Analytics
+subtitle: ""
 publication_types:
   - "2"
 authors:
   - admin
-doi: 10.1109/JSAC.2017.2659038
+doi: 10.1109/JSAC.2019.2927062
 publication: "In *IEEE Journal on Selected Areas in Communications, Volume 37,
   Issue: 8, pp. 1688 - 1702*"
 publication_short: In *IEEE Journal on Selected Areas in Communications (JSAC)*
