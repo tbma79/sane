@@ -1,6 +1,6 @@
 ---
-title: data cap
-subtitle: The Role of Data Cap in Optimal Two-Part Network Pricing
+title: The Role of Data Cap in Optimal Two-Part Network Pricing
+subtitle: ""
 publication_types:
   - "2"
 authors:
