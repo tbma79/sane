@@ -1,6 +1,6 @@
 ---
-title: Evolution of the Internet
-subtitle: Evolution of the Internet Economic Ecosystem.
+title: Evolution of the Internet Economic Ecosystem
+subtitle: ""
 publication_types:
   - "2"
 authors:
