@@ -4,6 +4,9 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
+  - Walid A. Y. Aljoby
+  - Xin Wang
+  - Tom Z. J. Fu
   - admin
 doi: 10.1109/JSAC.2019.2927062
 publication: "In *IEEE Journal on Selected Areas in Communications, Volume 37,
