@@ -1,6 +1,6 @@
 ---
-title: Paid Prioritization
-subtitle: Paid Prioritization and Its Impact on Net Neutrality
+title: Paid Prioritization and Its Impact on Net Neutrality
+subtitle: ""
 publication_types:
   - "2"
 authors:
