@@ -1,34 +1,31 @@
 ---
-title: The Role of Data Cap in Optimal Two-Part Network Pricing
-subtitle: ""
+title: Subsidization Competition
+subtitle: "Subsidization Competition: Vitalizing the Neutral Internet"
 publication_types:
   - "2"
 authors:
-  - Xin Wang
   - admin
-  - Yinlong Xu
-doi: 10.1109/TNET.2017.2750173
-publication: In *  IEEE/ACM Transactions on Networking, Volume 25, Issue 6, pp.
-  3602 - 3615, December 2017.*
+doi: 10.1109/TNET.2015.2466603
+publication: In *  IEEE/ACM Transactions on Networking, Volume 24, Issue 4, pp.
+  2563 - 2576, August 2016.*
 publication_short: In *IEEE/ACM Transactions on Networking*
-abstract: "Internet services are traditionally priced at flat rates; however,
-  many Internet service providers (ISPs) have recently shifted toward two-part
-  tariffs where a data cap is imposed to restrain data demand from heavy users.
-  Although the two-part tariff could generally increase the revenue for ISPs and
-  has been supported by the U.S. FCC, the role of data cap and its optimal
-  pricing structures are not well understood. In this paper, we study the impact
-  of data cap on the optimal two-part pricing schemes for congestion-prone
-  service markets. We model users' demand and preferences over pricing and
-  congestion alternatives and derive the market share and congestion of service
-  providers under a market equilibrium. Based on the equilibrium model, we
-  characterize the two-part structures of the revenue- and welfare-optimal
-  pricing schemes. Our results reveal that: 1) the data cap provides a mechanism
-  for ISPs to make a transition from the flat-rate to pay-as-you-go type of
-  schemes; 2) both of the revenue and welfare objectives will drive ISP's
-  pricing toward more usage-based schemes with diminishing data caps; and 3) the
-  welfare-optimal tariff comprises lower fees than the revenue-optimal
-  counterpart, suggesting that regulators might want to promote usage-based
-  pricing but regulate the lump-sum and per-unit fees."
+abstract: "Unlike telephone operators, which pay termination fees to reach the
+  users of another network, Internet content providers (CPs) do not pay the
+  Internet service providers (ISPs) of users they reach. While the consequent
+  cross subsidization to CPs has nurtured content innovations at the edge of the
+  Internet, it reduces the investment incentives for the access ISPs to expand
+  capacity. As potential charges for terminating CPs' traffic are criticized
+  under the net neutrality debate, we propose to allow CPs to voluntarily
+  subsidize the usage-based fees induced by their content traffic for end-users.
+  We model the regulated subsidization competition among the CPs under a neutral
+  network and show how deregulation of subsidization could increase an access
+  ISP's utilization and revenue, strengthening its investment incentives. Our
+  results suggest that subsidization competition will increase the
+  competitiveness and welfare of the Internet content market. However,
+  regulators might need to: 1) regulate access prices if the access ISP market
+  is not competitive enough; and 2) regulate subsidies if network is highly
+  congested. We envision that subsidization competition could become a viable
+  net-neutral model for the future Internet."
 draft: false
 featured: false
 projects:
@@ -37,5 +34,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2017-12-01T10:31:15.499Z
+date: 2016-10-01T10:31:15.499Z
 ---
