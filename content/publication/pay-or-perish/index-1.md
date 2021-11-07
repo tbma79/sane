@@ -1,6 +1,6 @@
 ---
-title: Pay or Perish
-subtitle: "Pay or Perish: The Economics of Premium Peering. "
+title: "Pay or Perish: The Economics of Premium Peering"
+subtitle: ""
 publication_types:
   - "2"
 authors:
