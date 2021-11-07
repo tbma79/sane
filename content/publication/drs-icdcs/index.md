@@ -1,6 +1,6 @@
 ---
-title: DRS ICDCS
-subtitle: "DRS: Dynamic Resource Scheduling for Real-Time Analytics over Fast Streams. "
+title: "DRS: Dynamic Resource Scheduling for Real-Time Analytics over Fast Streams"
+subtitle: ""
 publication_types:
   - "1"
 authors:
