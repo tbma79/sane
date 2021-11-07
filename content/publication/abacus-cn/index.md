@@ -1,6 +1,6 @@
 ---
-title: Abacus CN
-subtitle: Auction-Based Cloud Service Differentiation with Service Level Objectives
+title: Auction-Based Cloud Service Differentiation with Service Level Objectives
+subtitle: ""
 publication_types:
   - "2"
 authors:
