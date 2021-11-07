@@ -1,6 +1,6 @@
 ---
-title: Internet Economics
-subtitle: "Internet Economics: The Use of Shapley Value for ISP settlement"
+title: "Internet Economics: The Use of Shapley Value for ISP settlement"
+subtitle: ""
 publication_types:
   - "2"
 authors:
