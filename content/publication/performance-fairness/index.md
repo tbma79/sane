@@ -1,6 +1,6 @@
 ---
-title: Performance Fairness
-subtitle: Towards Application Performance Fairness on Clouds
+title: Towards Application Performance Fairness on Clouds
+subtitle: ""
 publication_types:
   - "1"
 authors:
