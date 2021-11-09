@@ -18,7 +18,7 @@ social:
       header: false
     icon_pack: ai
     icon: dblp
-    link: http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Ma:Richard_T=_B=.html
+    link: https://dblp.org/pid/70/3312.html
   - display:
       header: false
     link: https://orcid.org/0000-0002-9883-5844
