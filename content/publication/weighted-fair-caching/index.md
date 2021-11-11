@@ -12,7 +12,7 @@ authors:
   - Y. C. Tay
 doi: https://doi.org/10.1016/j.peva.2018.09.011
 publication: In *Performance Evaluation Volumes 127–128, November 2018, Pages 194-211*
-publication_short: In *IFIP Performance Conference"
+publication_short: In *IFIP Performance Conference*
 abstract: >-
   Traditional cache replacement policies such as LRU and LFU were often designed
   with the focus on efficiency and aimed at maximizing the hit rates. However,
