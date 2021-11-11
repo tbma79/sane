@@ -1,7 +1,7 @@
 ---
-title: Weighted Fair Caching
-subtitle: "Weighted Fair Caching: Occupancy-Centric Allocation for Space-Shared
+title: "Weighted Fair Caching: Occupancy-Centric Allocation for Space-Shared
   Resources"
+subtitle: ""
 publication_types:
   - "2"
   - "1"
