@@ -7,7 +7,7 @@ authors:
   - Lianjie Shi
   - Runxin Tian
   - Xin Wang
-  - me
+  - admin
 publication_short: IEEE INFOCOM 2022
 abstract: As video streaming services become more popular, users desire high
   perceived video quality, which has placed more stringent requirements on the
