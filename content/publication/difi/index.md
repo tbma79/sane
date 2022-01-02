@@ -1,6 +1,6 @@
 ---
-title: DiFi
-subtitle: "DiFi: A Go-as-You-Pay Wi-Fi Access System"
+title: "DiFi: A Go-as-You-Pay Wi-Fi Access System"
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -8,6 +8,7 @@ authors:
   - Runxin Tian
   - Xin Wang
   - me
+publication_short: IEEE INFOCOM 2022
 abstract: As video streaming services become more popular, users desire high
   perceived video quality, which has placed more stringent requirements on the
   quality of connection. Existing issues of cellular networks encourage users to
